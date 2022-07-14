@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://distephano-dropdown-menu.netlify.app/)
 
 ## My process
 
@@ -55,6 +55,6 @@ On next projects I wanna focus on the responsive menu again but with different k
 
 ## Author
 
-- Website - [Stephane](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@distephano30](https://www.twitter.com/yourusername)
+
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/distephano30)
+- Twitter - [@distephano30](https://www.twitter.com/distephano30)
