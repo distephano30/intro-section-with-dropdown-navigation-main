@@ -17,6 +17,7 @@ menuBtn.addEventListener("click", function (){
 // close the menu
 closeBtn.addEventListener("click", function (){
   mobileMenuBox.style.transform = "translateX(100%)";
+  mobileMenuBox.style.transition = ".5s ease-in-out .2s";
 });
 
 // dropdown feaure item
